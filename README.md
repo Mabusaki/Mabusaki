@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faracullaazizli
-- 👀 Interested in Java Backend Programming
-- 🌱 Currently writing REST APIs  using Spring framework 
+- 👀 Interested in programming and cyber security
+- 🌱 Currently working as cyber security intern
 - 📫 How to reach me ? faracullaazizli@gmail.com
 
